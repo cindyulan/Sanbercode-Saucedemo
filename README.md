@@ -16,7 +16,12 @@ _create by: Cindy Ulan Purwanti_
 5. Verify failed login (valid username and blank field password)  
 6. Verify failed login (blank field username and password)  
 7. Verify product add to cart successfully  
+  
 **Capture Running:**  
 Login:  
+
 ![login_running](https://github.com/cindyulan/Sanbercode-Saucedemo/assets/129584905/2e9f0cfc-a5c9-4471-8902-e69a957839b6)  
-Cart:
+
+Cart:  
+
+![cart_running](https://github.com/cindyulan/Sanbercode-Saucedemo/assets/129584905/757eaad9-81c7-4c06-9bc9-a0123ebadc22)
