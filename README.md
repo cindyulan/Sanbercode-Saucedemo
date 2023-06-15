@@ -1,6 +1,5 @@
 # Sanbercode-Saucedemo
 ### Tugas Day 16 Selenium Python  
-_create by: Cindy Ulan Purwanti_
 
 **URL to Test** : https://www.saucedemo.com/  
 
